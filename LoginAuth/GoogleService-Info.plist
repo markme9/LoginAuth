@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1099167026323-2pd4ftsvjkkje3ib0apo48mrij8cdq2h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1099167026323-2pd4ftsvjkkje3ib0apo48mrij8cdq2h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8ojpu5-bpsFraXPiAIh_bmS-9t3f8WNs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1099167026323</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>zoya.me.signIn</string>
+	<key>PROJECT_ID</key>
+	<string>signin-e2dd2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signin-e2dd2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1099167026323:ios:ec0e3882d647bc3257d166</string>
+</dict>
+</plist>
